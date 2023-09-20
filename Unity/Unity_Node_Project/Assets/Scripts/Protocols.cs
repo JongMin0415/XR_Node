@@ -18,5 +18,15 @@ public class Protocols
             public string data;
         }
 
+        public class res_data : common
+        {
+            public req_data[] result;
+        }
+
+        public class ConstructionStatusResponse
+        {
+            public string message;
+        }
+
     }
 }
