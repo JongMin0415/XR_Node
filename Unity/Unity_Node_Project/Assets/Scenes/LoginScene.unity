@@ -1674,7 +1674,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   usernameInput: {fileID: 236783096}
   passwordInput: {fileID: 1948279870}
-  loginStatuText: {fileID: 638011655}
+  loginStatuText: {fileID: 1366717299}
   token: 
 --- !u!4 &2007536031
 Transform:
